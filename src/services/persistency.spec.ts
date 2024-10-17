@@ -24,17 +24,17 @@
 //   });
 // });
 
-describe('TESTANDO ALGUMA COISA', () => {
-  it('Isso deveria retornar 1', () => {
-    const number = 1;
-    expect(number).toBe(1); //espero que a variável number seja 1
-    //expect(number).not.toBe(1); //espero que a variável number nao seja 1
-  });
-});
+// describe('TESTANDO ALGUMA COISA', () => {
+//   it('Isso deveria retornar 1', () => {
+//     const number = 1;
+//     expect(number).toBe(1); //espero que a variável number seja 1
+//     //expect(number).not.toBe(1); //espero que a variável number nao seja 1
+//   });
+// });
 
-describe('TESTANDO OUTRA COISA', () => {
-  test('Isoo deveria retornar Tiago', () => {
-    const nome = 'Tiago';
-    expect(nome).toBe('Tiago');
-  });
-});
+// describe('TESTANDO OUTRA COISA', () => {
+//   test('Isoo deveria retornar Tiago', () => {
+//     const nome = 'Tiago';
+//     expect(nome).toBe('Tiago');
+//   });
+// });
