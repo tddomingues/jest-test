@@ -1,0 +1,6 @@
+npm i jest ts-jest @types/jest -D -> inicia
+npx ts-jest config:init -> para ts
+npx jest --init -> para js
+npx jest -> executar os testes
+index.test.ts -> teste de integração
+index.spec.ts -> teste unitário
